@@ -2,7 +2,12 @@
 
 This was a little side prorect createt to learn React.js
 
-## Available Scripts
+![img_1](https://iili.io/HhFF8Vj.png)
+
+![img_2](https://iili.io/HhFFtWJ.png)
+
+
+## How to Run:
 
 In the project directory, you can run:
 
